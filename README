@@ -1,7 +1,14 @@
 bedrock
 
 ============= introduce =========================
-
+包含如下工具类：
+1，thread pool
+2，memory pool
+3，thread local storage wrapper
+4，hash template
+5，hash function
+6，ependingpool
+7，wml2html
 
 
 
